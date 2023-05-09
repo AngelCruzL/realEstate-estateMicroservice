@@ -1,0 +1,2 @@
+CREATE SCHEMA sc_estate
+AUTHORIZATION admin;
